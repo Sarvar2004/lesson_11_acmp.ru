@@ -15,7 +15,7 @@ int main()
 		}
 	}while(x);
 	printf("%d",k);
-
+	
 
     return 0;
 }
